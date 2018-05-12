@@ -1,0 +1,38 @@
+_repo: NadeschdaYhdeks-n-laulua_20882
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kiljander, K.
+    aliases:
+    - Kiljander, Karl Mårten
+    - Kiljander, Kaarle Martti
+    birthdate: 1817
+    deathdate: 1879
+    gutenberg_agent_id: '6541'
+    url: http://www.gutenberg.org/2009/agents/6541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    alias: Runeberg, J. L. (Johan Ludvig)
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_issued: '2007-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20882'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: 'Nadeschda: Yhdeksän laulua'
+url: http://www.gutenberg.org/ebooks/20882
